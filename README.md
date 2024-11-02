@@ -75,7 +75,7 @@ This version highlights your specific interests and skills, making it sound pers
 ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) 
-![Polarr](https://img.shields.io/badge/Polarr-%2300D8FF.svg?style=for-the-badge&logo=polarr&logoColor=white) 
+![Polarr](https://img.shields.io/badge/Polarr-%2300D8FF.svg?style=for-the-badge&logo=polarrNext&logoColor=white) 
 ![CapCut](https://img.shields.io/badge/CapCut-%23000000.svg?style=for-the-badge&logo=capcut&logoColor=white) 
 
 ---
