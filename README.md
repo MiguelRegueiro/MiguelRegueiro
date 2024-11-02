@@ -43,6 +43,7 @@ This version highlights your specific interests and skills, making it sound pers
 #### Frameworks & Libraries
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![Tinker](https://img.shields.io/badge/Tinker-%2320C20E.svg?style=for-the-badge&logo=tinker&logoColor=white)
 ![Flet](https://img.shields.io/badge/Flet-%2300C4CC.svg?style=for-the-badge&logo=flet&logoColor=white)
 
 #### Data & Analytics
