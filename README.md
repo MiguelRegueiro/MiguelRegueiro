@@ -1,3 +1,11 @@
+Here’s an updated README draft for your profile, merging the sleek look and functionality of the example with your original content. This includes centered visuals, icon-based socials, current project highlights, and GitHub stats to create an engaging profile:
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ChrisTitusTech/ChrisTitusTech/main/ctt-600px-github.png" alt="Profile Banner" width="600px"/>
+</p>
+
 # 🌌 Miguel Pérez Regueiro
 ### Full-stack Developer | Polyglot | Tech Enthusiast
 
@@ -13,8 +21,14 @@
 ---
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/Miguel%20Pérez%20Regueiro)
-[![Salesforce](https://img.shields.io/badge/Salesforce-%2300A1E0.svg?style=flat&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/vez1avt92qouv7yss3)
+<p align="center">
+  <a href="https://linkedin.com/in/Miguel%20Pérez%20Regueiro" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.salesforce.com/trailblazer/vez1avt92qouv7yss3" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Salesforce-%2300A1E0.svg?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce"/>
+  </a>
+</p>
 
 ---
 
@@ -71,7 +85,9 @@
 #### Design & Media
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) 
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) 
-![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) 
+![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%
+
+20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) 
 ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) 
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) 
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) 
@@ -86,22 +102,20 @@
 ---
 
 ## 📊 GitHub Stats
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=MiguelRegueiro&theme=github_dark&hide_border=true&show_icons=true" alt="GitHub Stats">
-</td>
-<td>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MiguelRegueiro&theme=github_dark&hide_border=true" alt="GitHub Streak">
-</td>
-</tr>
-</table>
-  
-### 🔝 Top Languages & Contributions
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelRegueiro&theme=github_dark&hide_border=true&layout=compact" alt="Top Languages">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MiguelRegueiro&theme=github_dark&hide_border=true&show_icons=true" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MiguelRegueiro&theme=github_dark&hide_border=true" alt="GitHub Streak" width="48%">
+</p>
 
 ---
 
+### 📫 Reach Out:
+- **YouTube**: [Miguel’s Channel](https://youtube.com/c/MiguelChannel)
+<!--- **Twitter**: [@MiguelTech](https://twitter.com/MiguelTech)
+- **Website**: [Miguel’s Portfolio](https://miguelportfolio.com)-->
+
+--- 
+
 [![Visitor Count](https://visitcount.itsvg.in/api?id=MiguelRegueiro&icon=0&color=12)](https://visitcount.itsvg.in)
 
-<!-- This readme was beautifully crafted with the help of GPRM: https://gprm.itsvg.in -->
+<!-- Crafted with inspiration from ChrisTitusTech's sleek README template and GPRM generator: https://gprm.itsvg.in -->
