@@ -97,6 +97,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MiguelRegueiro&theme=github_dark&hide_border=true" alt="GitHub Streak" width="48%">
 </p>
 
+<p align="left"><img src="https://raw.githubusercontent.com/MiguelRegueiro/MiguelRegueiro/main/github-metrics.svg" /></p>
+
 
 --- 
 
