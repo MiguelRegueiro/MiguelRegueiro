@@ -1,5 +1,5 @@
 # 🌌 Miguel Pérez Regueiro
-### Full-stack Developer | Polyglot | Tech Innovator in Education and Language Learning
+### Full-stack Developer | Polyglot | Tech Enthusiast
 
 ---
 
