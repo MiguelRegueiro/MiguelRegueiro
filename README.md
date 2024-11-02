@@ -12,10 +12,6 @@
 
 ---
 
-This version highlights your specific interests and skills, making it sound personal and authentically about you. Let me know if you'd like further customization!
-
----
-
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/Miguel%20Pérez%20Regueiro)
 [![Salesforce](https://img.shields.io/badge/Salesforce-%2300A1E0.svg?style=flat&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/vez1avt92qouv7yss3)
