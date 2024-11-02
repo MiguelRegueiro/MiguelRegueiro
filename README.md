@@ -11,16 +11,16 @@
 - 🎯 **Fun Fact:** I speak six languages, work with a variety of tech stacks, and am also on a journey to achieve advanced calisthenics skills!
 
 ---
-
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="www.linkedin.com/in/miguel-pérez-regueiro" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/miguel-pérez-regueiro" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.salesforce.com/trailblazer/vez1avt92qouv7yss3" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Salesforce-%2300A1E0.svg?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce"/>
   </a>
 </p>
+
 
 ---
 
