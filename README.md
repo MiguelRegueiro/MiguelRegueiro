@@ -107,12 +107,6 @@ Here’s an updated README draft for your profile, merging the sleek look and fu
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MiguelRegueiro&theme=github_dark&hide_border=true" alt="GitHub Streak" width="48%">
 </p>
 
----
-
-### 📫 Reach Out:
-- **YouTube**: [Miguel’s Channel](https://youtube.com/c/MiguelChannel)
-<!--- **Twitter**: [@MiguelTech](https://twitter.com/MiguelTech)
-- **Website**: [Miguel’s Portfolio](https://miguelportfolio.com)-->
 
 --- 
 
