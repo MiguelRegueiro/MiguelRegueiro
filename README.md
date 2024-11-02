@@ -14,7 +14,7 @@
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/Miguel%20Pérez%20Regueiro" target="_blank" rel="noreferrer">
+  <a href="www.linkedin.com/in/miguel-pérez-regueiro" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.salesforce.com/trailblazer/vez1avt92qouv7yss3" target="_blank" rel="noreferrer">
