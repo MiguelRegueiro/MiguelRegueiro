@@ -1,11 +1,3 @@
-Here’s an updated README draft for your profile, merging the sleek look and functionality of the example with your original content. This includes centered visuals, icon-based socials, current project highlights, and GitHub stats to create an engaging profile:
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ChrisTitusTech/ChrisTitusTech/main/ctt-600px-github.png" alt="Profile Banner" width="600px"/>
-</p>
-
 # 🌌 Miguel Pérez Regueiro
 ### Full-stack Developer | Polyglot | Tech Enthusiast
 
