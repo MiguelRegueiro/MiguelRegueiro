@@ -59,7 +59,6 @@
   
 ### 🔝 Top Languages & Contributions
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelRegueiro&theme=github_dark&hide_border=true&layout=compact" alt="Top Languages">
-<img src="https://github-contributor-stats.vercel.app/api?username=MiguelRegueiro&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributions">
 
 ---
 
