@@ -78,6 +78,7 @@ I'm a second-year computer science student from Spain, fluent in five languages,
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
   <img src="https://img.shields.io/badge/Unreal_Engine-%23313131.svg?style=for-the-badge&logo=unreal-engine&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Marvel%20Prototype%20Creator-%23ED1D24.svg?style=for-the-badge&logo=marvel&logoColor=white"/>
 </p>
   <h3 align="center">Design & Media</h3>
 <p align="center">
