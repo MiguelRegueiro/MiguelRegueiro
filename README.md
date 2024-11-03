@@ -23,9 +23,9 @@ I'm a second-year computer science student from Spain, fluent in five languages,
 
 
 ---
+<h2 align="center">💻 Tech Stack</h2>
 
-## 💻 Tech Stack
-  #### Programming Languages
+  <h3 align="center">Programming Languages</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -36,8 +36,7 @@ I'm a second-year computer science student from Spain, fluent in five languages,
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-
- #### Cloud & DevOps
+  <h3 align="center">Cloud & DevOps</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
@@ -46,8 +45,7 @@ I'm a second-year computer science student from Spain, fluent in five languages,
   <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 </p>
-
-#### Frameworks & Libraries
+  <h3 align="center">Frameworks & Libraries</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
@@ -57,8 +55,7 @@ I'm a second-year computer science student from Spain, fluent in five languages,
   <img src="https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/Selenium-%23443d56.svg?style=for-the-badge&logo=selenium&logoColor=white"/>
 </p>
-
-#### Data & Analytics
+  <h3 align="center">Data & Analytics</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -72,8 +69,7 @@ I'm a second-year computer science student from Spain, fluent in five languages,
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/MATLAB-%23007ACC.svg?style=for-the-badge&logo=mathworks&logoColor=white"/>
 </p>
-
-#### Tools & Platforms
+  <h3 align="center">Tools & Platforms</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
@@ -83,8 +79,7 @@ I'm a second-year computer science student from Spain, fluent in five languages,
   <img src="https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
   <img src="https://img.shields.io/badge/Unreal_Engine-%23313131.svg?style=for-the-badge&logo=unreal-engine&logoColor=white"/>
 </p>
-
-#### Design & Media
+  <h3 align="center">Design & Media</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white"/>
   <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white"/>
@@ -103,8 +98,7 @@ I'm a second-year computer science student from Spain, fluent in five languages,
 
 
 ---
-
-## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MiguelRegueiro&theme=github_dark&hide_border=true&show_icons=true" alt="GitHub Stats" width="48%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MiguelRegueiro&theme=github_dark&hide_border=true" alt="GitHub Streak" width="48%">
