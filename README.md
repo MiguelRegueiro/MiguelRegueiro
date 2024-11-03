@@ -4,11 +4,7 @@
 ---
 
 ### 🌠 About Me
-- 🚀 **Looking to Collaborate On:** Educational technology projects, language learning applications, and open-source contributions in tech for learning.
-- 🧩 **Seeking Expertise In:** UX/UI design, machine learning integration, and efficient front-end development for impactful educational tools.
-- 📈 **Currently Learning:** Advanced app deployment strategies, cross-platform optimization, and robust React frontend architectures.
-- 🧠 **Ask Me About:** Language learning techniques (I’m an N1 in Japanese!), full-stack development, and creating hyper-engaging educational platforms.
-- 🎯 **Fun Fact:** I speak six languages, work with a variety of tech stacks, and am also on a journey to achieve advanced calisthenics skills!
+I'm a second-year computer science student from Spain, fluent in five languages, and a full-stack developer. Lately, I've been diving into app deployment and cross-platform optimization, experimenting with React to craft seamless experiences. Beyond tech, I’m also on a journey to master advanced calisthenics skills. Combining my love for languages and coding, I’m driven to make tools that help people learn in fun, impactful ways.
 
 ---
 ## 🌐 Connect With Me
