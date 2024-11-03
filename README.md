@@ -7,7 +7,7 @@
 <p align="center">
 I'm a second-year computer science student from Spain, fluent in five languages, and a full-stack developer.
   <p align="center">
-  Lately, I've been diving into app deployment and cross-platform optimization, experimenting with React to craft seamless experiences. Beyond tech, I’m also on a journey to master advanced calisthenics skills. Combining my love for languages and coding, I’m driven to make tools that help people learn in fun, impactful ways.
+  Lately, I've been diving into app deployment and cross-platform optimization, experimenting with React to craft seamless experiences. Combining my love for languages and coding, I’m driven to make tools that help people learn in fun, impactful ways.
 </p></p>
 
 ---
