@@ -21,7 +21,7 @@ I'm a second-year computer science student from Spain, fluent in five languages,
 ---
 
 # 💻 Tech Stack:
-
+<p align="center">
 #### Programming Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -84,7 +84,7 @@ I'm a second-year computer science student from Spain, fluent in five languages,
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) 
 ![Polarr Next](https://img.shields.io/badge/Polarr-%2300D8FF.svg?style=for-the-badge&logo=polarrNext&logoColor=black) 
 ![CapCut](https://img.shields.io/badge/CapCut-%23000000.svg?style=for-the-badge&logo=capcut&logoColor=white)
-
+</p>
 ---
 
 ## 📊 GitHub Stats
