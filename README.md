@@ -4,7 +4,7 @@
 ---
 
 <h3 align="center">🌠 About Me</h3>
-<p max-width: 300px;>
+<p>
 I'm a second-year computer science student from Spain, fluent in five languages, and a full-stack developer. Lately, I've been diving into app deployment and cross-platform optimization, experimenting with React to craft seamless experiences. Beyond tech, I’m also on a journey to master advanced calisthenics skills. Combining my love for languages and coding, I’m driven to make tools that help people learn in fun, impactful ways.
 </p>
 
