@@ -1,6 +1,7 @@
-<p align="center"># 🌌 Miguel Pérez Regueiro
+<p align="center">
+# 🌌 Miguel Pérez Regueiro
 ### Full-stack Developer | Polyglot | Tech Enthusiast
-
+</p>
 ---
 
 ### 🌠 About Me
@@ -105,7 +106,7 @@ I'm a second-year computer science student from Spain, fluent in five languages,
   <img src="https://github-readme-stats.vercel.app/api?username=MiguelRegueiro&theme=github_dark&hide_border=true&show_icons=true" alt="GitHub Stats" width="48%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MiguelRegueiro&theme=github_dark&hide_border=true" alt="GitHub Streak" width="48%">
 </p>
-</p>
+
 --- 
 
 [![Visitor Count](https://visitcount.itsvg.in/api?id=MiguelRegueiro&icon=0&color=12)](https://visitcount.itsvg.in)
