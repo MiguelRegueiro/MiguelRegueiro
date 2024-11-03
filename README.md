@@ -1,14 +1,17 @@
+<h1 align="center">🌌 Miguel Pérez Regueiro</h1>
+<h3 align="center">Full-stack Developer | Polyglot | Tech Enthusiast</h3>
+
+---
+
+<h3 align="center">🌠 About Me</h3>
 <p align="center">
-# 🌌 Miguel Pérez Regueiro
-### Full-stack Developer | Polyglot | Tech Enthusiast
-</p>
----
-
-### 🌠 About Me
 I'm a second-year computer science student from Spain, fluent in five languages, and a full-stack developer. Lately, I've been diving into app deployment and cross-platform optimization, experimenting with React to craft seamless experiences. Beyond tech, I’m also on a journey to master advanced calisthenics skills. Combining my love for languages and coding, I’m driven to make tools that help people learn in fun, impactful ways.
+</p>
 
 ---
-## 🌐 Connect With Me
+
+<h2 align="center">🌐 Connect With Me</h2>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/miguel-pérez-regueiro" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
