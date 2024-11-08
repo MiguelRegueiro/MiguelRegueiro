@@ -113,3 +113,11 @@ I'm a second-year computer science student from Spain, fluent in five languages,
 [![Visitor Count](https://visitcount.itsvg.in/api?id=MiguelRegueiro&icon=0&color=12)](https://visitcount.itsvg.in)
 
 <!-- Crafted with inspiration from ChrisTitusTech's sleek README template and GPRM generator: https://gprm.itsvg.in -->
+
+
+<style>
+  img {
+    pointer-events: none;
+  }
+</style>
+
