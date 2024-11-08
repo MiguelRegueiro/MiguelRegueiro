@@ -27,7 +27,7 @@ I'm a second-year computer science student from Spain, fluent in five languages,
 ---
 <h2 align="center">💻 Tech Stack</h2>
 
-  <h3 align="center">Programming Languages</h3>
+<h3 align="center">Programming Languages</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -38,7 +38,7 @@ I'm a second-year computer science student from Spain, fluent in five languages,
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-  <h3 align="center">Cloud & DevOps</h3>
+<h3 align="center">Cloud & DevOps</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
@@ -47,7 +47,8 @@ I'm a second-year computer science student from Spain, fluent in five languages,
   <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 </p>
-  <h3 align="center">Frameworks & Libraries</h3>
+
+<h3 align="center">Frameworks & Libraries</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
@@ -57,7 +58,8 @@ I'm a second-year computer science student from Spain, fluent in five languages,
   <img src="https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/Selenium-%23443d56.svg?style=for-the-badge&logo=selenium&logoColor=white"/>
 </p>
-  <h3 align="center">Data & Analytics</h3>
+
+<h3 align="center">Data & Analytics</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -71,7 +73,8 @@ I'm a second-year computer science student from Spain, fluent in five languages,
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/MATLAB-%23007ACC.svg?style=for-the-badge&logo=mathworks&logoColor=white"/>
 </p>
-  <h3 align="center">Tools & Platforms</h3>
+
+<h3 align="center">Tools & Platforms</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
@@ -82,23 +85,21 @@ I'm a second-year computer science student from Spain, fluent in five languages,
   <img src="https://img.shields.io/badge/Unreal_Engine-%23313131.svg?style=for-the-badge&logo=unreal-engine&logoColor=white"/>
   <img src="https://img.shields.io/badge/Marvel-%238C4FFF.svg?style=for-the-badge&logo=marvel&logoColor=white"/>
 </p>
-  <h3 align="center">Design & Media</h3>
+
+<h3 align="center">Design & Media</h3>
 <p align="center">
-
-  <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white"/>
-
-  <img src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white"/>
-  <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
-  <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Polarr-%2300D8FF.svg?style=for-the-badge&logo=polarrNext&logoColor=black"/>
-  <img src="https://img.shields.io/badge/CapCut-%23000000.svg?style=for-the-badge&logo=capcut&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white" style="pointer-events: none;"/>
+  <img src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white" style="pointer-events: none;"/>
+  <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" style="pointer-events: none;"/>
+  <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" style="pointer-events: none;"/>
+  <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" style="pointer-events: none;"/>
+  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" style="pointer-events: none;"/>
+  <img src="https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF" style="pointer-events: none;"/>
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" style="pointer-events: none;"/>
+  <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" style="pointer-events: none;"/>
+  <img src="https://img.shields.io/badge/Polarr-%2300D8FF.svg?style=for-the-badge&logo=polarrNext&logoColor=black" style="pointer-events: none;"/>
+  <img src="https://img.shields.io/badge/CapCut-%23000000.svg?style=for-the-badge&logo=capcut&logoColor=white" style="pointer-events: none;"/>
 </p>
-
 
 ---
 <h2 align="center">📊 GitHub Stats</h2>
