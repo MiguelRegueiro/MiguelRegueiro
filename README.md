@@ -114,10 +114,3 @@ I'm a second-year computer science student from Spain, fluent in five languages,
 
 <!-- Crafted with inspiration from ChrisTitusTech's sleek README template and GPRM generator: https://gprm.itsvg.in -->
 
-
-<style>
-  img {
-    pointer-events: none;
-  }
-</style>
-
