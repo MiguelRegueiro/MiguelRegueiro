@@ -47,9 +47,6 @@ I'm a second-year computer science student from Spain, fluent in five languages,
   <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-  ![Jellyfin Logo](https://upload.wikimedia.org/wikipedia/commons/2/20/Jellyfin_Logo.svg)
-![Samba Logo](https://upload.wikimedia.org/wikipedia/commons/5/55/Samba_logo.svg)
-![rEFInd Logo](https://upload.wikimedia.org/wikipedia/commons/1/1b/R-E-Find_logo.png)
 
 
 </p>
@@ -90,7 +87,6 @@ I'm a second-year computer science student from Spain, fluent in five languages,
   <img src="https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
   <img src="https://img.shields.io/badge/Unreal_Engine-%23313131.svg?style=for-the-badge&logo=unreal-engine&logoColor=white"/>
   <img src="https://img.shields.io/badge/Marvel-%238C4FFF.svg?style=for-the-badge&logo=marvel&logoColor=white"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R-E-Find_logo.png" alt="rEFInd" width="100"/>
 </p>
 
 <h3 align="center">Design & Media</h3>
