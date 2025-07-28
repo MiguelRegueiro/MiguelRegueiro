@@ -116,7 +116,7 @@ I'm a second-year computer science student from Spain, fluent in five languages,
   Tweaked **Nobara Linux** for gaming and productivity, alongside Windows 11, booted via a portable **rEFInd USB**.
 
 - 🧩 Custom Dotfiles:  
-  Full system and GNOME configuration [available here →](https://github.com/yourusername/MyNobaraDotFiles)
+  Full system and GNOME configuration [available here →](https://github.com/MiguelRegueiro/MyNobaraDotFiles)
 
 ---
 
