@@ -104,6 +104,25 @@ I'm a second-year computer science student from Spain, fluent in five languages,
   <img src="https://img.shields.io/badge/CapCut-%23000000.svg?style=for-the-badge&logo=capcut&logoColor=white" style="pointer-events: none;"/>
 </p>
 
+
+---
+
+<h2 align="center">🖥️ My Linux Workstations</h2>
+
+- 🧃 **Fedora Workstation Server**:  
+  Runs **Jellyfin** (for local streaming) and **Samba** (for shared folders), optimized as a local home server.
+
+- 🎮 **Nobara Gaming Laptop (Dual Boot)**:  
+  Tweaked **Nobara Linux** for gaming and productivity, alongside Windows 11, booted via a portable **rEFInd USB**.
+
+- 🧩 Custom Dotfiles:  
+  Full system and GNOME configuration [available here →](https://github.com/yourusername/MyNobaraDotFiles)
+
+---
+
+
+
+
 ---
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
