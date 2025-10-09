@@ -107,13 +107,13 @@ I'm a third-year computer science student from Spain, fluent in five languages, 
 
 ---
 
-<h2 align="center">🖥️ My Linux Workstations</h2>
+<h2 align="center">🖥️ Linux Workstations</h2>
 
 - 🧃 **Fedora Workstation Server**:  
-  Runs **Jellyfin** (for local streaming) and **Samba** (for shared folders), optimized as a local home server.
+  Runs Jellyfin for local media streaming and multiple Docker containers, including FileBrowser and a custom Python-based to-do server. Optimized for home server performance.
 
-- 🎮 **Nobara Gaming Laptop (Dual Boot)**:  
-  Tweaked **Nobara Linux** for gaming and productivity, alongside Windows 11, booted via a portable **rEFInd USB**.
+- 🎮 **Nobara Gaming Laptop**:  
+  Runs Nobara Linux for gaming, productivity and development, including tools such as KokoroFast API and Ollama. Dual-booted with Windows 11 via a portable rEFInd setup.
 
 - 🧩 Custom Dotfiles:  
   Full system and GNOME configuration [available here →](https://github.com/MiguelRegueiro/MyNobaraDotFiles)
