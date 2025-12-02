@@ -5,11 +5,11 @@
 
 <h3 align="center">🌠 About Me</h3>
 <p align="center">
-I'm a third-year computer science student from Spain, fluent in five languages, and a full-stack developer.
-  <p align="center">
-  Lately, I've been diving into app deployment and cross-platform optimization, experimenting with React to craft seamless experiences. Combining my love for languages and coding, I’m driven to make tools that help people learn in fun, impactful ways.
-</p></p>
-
+I am a third-year Computer Science and Engineering student from Spain, fluent in five languages, with a strong focus on software development.
+</p>
+<p align="center">
+Recently, I have focused on system administration and operating system customization, working across Linux and BSD environments. These experiences have deepened my understanding of system internals, performance optimization, and cross-platform workflows, while reinforcing my goal of building tools that make learning more accessible and effective.
+</p>
 ---
 
 <h2 align="center">🌐 Connect With Me</h2>
