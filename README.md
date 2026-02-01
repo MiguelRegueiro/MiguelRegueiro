@@ -10,6 +10,7 @@ I am a third-year Computer Science and Engineering student from Spain, fluent in
 <p align="center">
 Recently, I have focused on system administration and operating system customization, working across Linux and BSD environments. These experiences have deepened my understanding of system internals, performance optimization, and cross-platform workflows, while reinforcing my goal of building tools that make learning more accessible and effective.
 </p>
+
 ---
 
 <h2 align="center">🌐 Connect With Me</h2>
