@@ -26,7 +26,7 @@ I am a 3rd-year CS student from Spain, specializing in the intersection of **low
 | Category | Tools & Technologies |
 | :--- | :--- |
 | **Languages** | `C` • `Rust (Learning)` • `Java` • `Python` • `JavaScript` • `Bash` • `R` |
-| **Systems & Ops** | `Fedora` • `CachyOS` • `Docker` • `Kubernetes` • `Git` • `Linux Optimization` |
+| **Systems & Ops** | `Fedora` • `CachyOS` • `FreBSD` • `Docker` • `Kubernetes` • `Git` • `Linux Optimization` |
 | **Backend & Cloud** | `Node.js` • `AWS` • `Azure` • `PostgreSQL` • `MongoDB` • `REST APIs` |
 | **Frontend & Mobile** | `React` • `React Native` • `Flet` • `HTML5/CSS3` |
 | **AI & Data** | `PyTorch` • `TensorFlow` • `OpenCV` • `Pandas` • `NumPy` • `MATLAB` |
@@ -34,9 +34,9 @@ I am a 3rd-year CS student from Spain, specializing in the intersection of **low
 
 ---
 
-### 🖥️ Workstations & Configurations
-I believe a developer is only as good as their environment. I spent a significant amount of time "sharpening the saw" through system configuration.
-* **[MyCachyOSDotFiles](https://github.com/MiguelRegueiro/MyCachyOSDotFiles):** My personal setup for GNOME/CachyOS. A reflection of my commitment to an efficient, useful, and "just works" workspace.
-* **The Rust Journey:** Engineering lean, low-level systems tools for Linux. Focused on high-performance binaries, FFI, and squeezing every bit of efficiency out of the hardware.
+### 🖥️ Systems & Tooling  
+I believe a developer is only as good as their environment. I've invested significant time "sharpening the saw" by crafting a workspace centered around performance, transparency, and automation.  
+* **Setup:** Custom GNOME environment on CachyOS. [View Dotfiles](https://github.com/MiguelRegueiro/MyCachyOSDotFiles)
+* **Low-Level Development:** Learning Rust to build lightweight Linux utilities. Exploring systems programming, memory safety, and how software interacts directly with hardware.
 
 ---
