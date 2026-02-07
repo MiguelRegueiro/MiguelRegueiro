@@ -26,7 +26,7 @@ I am a 3rd-year CS student from Spain, specializing in the intersection of **low
 | Category | Tools & Technologies |
 | :--- | :--- |
 | **Languages** | `C` • `Rust (Learning)` • `Java` • `Python` • `JavaScript` • `Bash` • `R` |
-| **Systems & Ops** | `Fedora` • `CachyOS` • `FreBSD` • `Docker` • `Kubernetes` • `Git` • `Linux Optimization` |
+| **Systems & Ops** | `Fedora` • `CachyOS` • `FreeBSD` • `Docker` • `Kubernetes` • `Git` • `Linux Optimization` |
 | **Backend & Cloud** | `Node.js` • `AWS` • `Azure` • `PostgreSQL` • `MongoDB` • `REST APIs` |
 | **Frontend & Mobile** | `React` • `React Native` • `Flet` • `HTML5/CSS3` |
 | **AI & Data** | `PyTorch` • `TensorFlow` • `OpenCV` • `Pandas` • `NumPy` • `MATLAB` |
