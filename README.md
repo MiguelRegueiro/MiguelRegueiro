@@ -1,42 +1,57 @@
 <h1 align="center">🌌 Miguel Pérez Regueiro</h1>
 <p align="center">
-  <strong>Computer Engineering Student | Full-Stack Developer</strong><br>
-  <em>Linux Power User • Fluent in 5 Languages • Performance & Systems Enthusiast</em>
+  <strong>Computer Engineering Student | Full-Stack Developer (Backend & Systems Focus)</strong><br>
+  <em>Building reliable backend services and Linux-native software.</em>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/miguel-pérez-regueiro" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://www.salesforce.com/trailblazer/vez1avt92qouv7yss3" target="_blank"><img src="https://img.shields.io/badge/Trailblazer-%2300A1E0.svg?style=flat-square&logo=salesforce&logoColor=white" alt="Salesforce"/></a>
 </p>
 
 ---
 
-### 🌠 About Me
-I am a 3rd-year CS student from Spain, specializing in the intersection of **low-level systems** and **high-level application architecture**. I daily drive **Fedora** and **CachyOS**, focusing on building lean, high-performance environments.
+### 👋 About Me
+I am a 3rd-year Computer Engineering student in Spain focused on building practical software and improving it through iteration.
+I build end-to-end features, with a primary focus on backend and systems reliability.
 
-* 🛠️ **Full-Stack Flexibility:** Equally comfortable optimizing memory in **C/Rust** as I am building interfaces in **React**.
-* 📱 **Mobile Development:** Experienced in building cross-platform applications with **React Native**.
-* 🌍 **Global Communicator:** Fluent in 5 languages (EN, ES, JP, PT, ZH), enabling collaboration across global teams.
-* 🐧 **Linux Power User:** Passionate about OS customization, dotfile management, and shell automation.
+- **How I work:** I learn by shipping real projects, then refining performance, structure, and usability.
+- **Platform experience:** Daily use of CachyOS and Fedora, with hands-on testing across Linux environments.
+- **Current focus:** Building practical tools that solve real workflow problems.
 
 ---
 
-### 💻 Technical Ecosystem
+### ⚡ Featured Work
 
-| Category | Tools & Technologies |
+- [**ssh-watchdog**](https://github.com/MiguelRegueiro/ssh-watchdog): GNOME Shell extension for real-time SSH session monitoring, published on GNOME Extensions for install via Extension Manager.
+- [**MyCachyOSDotFiles**](https://github.com/MiguelRegueiro/MyCachyOSDotFiles): I believe a developer is only as good as their environment, so I built a CachyOS/GNOME setup focused on speed, transparency, and automation.
+
+---
+
+### 💻 Technical Focus
+
+| Area | Tools & Technologies |
 | :--- | :--- |
-| **Languages** | `C` • `Rust (Learning)` • `Java` • `Python` • `JavaScript` • `Bash` • `R` |
-| **Systems & Ops** | `Fedora` • `CachyOS` • `FreeBSD` • `Docker` • `Kubernetes` • `Git` • `Linux Optimization` |
-| **Backend & Cloud** | `Node.js` • `AWS` • `Azure` • `PostgreSQL` • `MongoDB` • `REST APIs` |
-| **Frontend & Mobile** | `React` • `React Native` • `Flet` • `HTML5/CSS3` |
-| **AI & Data** | `PyTorch` • `TensorFlow` • `OpenCV` • `Pandas` • `NumPy` • `MATLAB` |
-| **Spoken** | `English` • `Spanish` • `Japanese` • `Portuguese` • `Chinese` |
+| **Languages** | `Rust` • `JavaScript` • `Python` • `C` • `Bash` • `Java` |
+| **Backend & Data** | `Node.js` • `SQLite` • `PostgreSQL` • `REST APIs` |
+| **Frontend & Mobile** | `React` • `React Native` • `HTML/CSS` |
+| **Systems & DevOps** | `Linux` • `Docker` • `Docker Compose` • `Git` • `GNOME Shell` |
+| **AI Tooling** | `Ollama` • `OpenWebUI` • `Self-hosted LLM integration` |
 
 ---
 
-### 🖥️ Systems & Tooling  
-I believe a developer is only as good as their environment. I've invested significant time "sharpening the saw" by crafting a workspace centered around performance, transparency, and automation.  
-* **Setup:** Custom GNOME environment on CachyOS. [View Dotfiles](https://github.com/MiguelRegueiro/MyCachyOSDotFiles)
-* **Low-Level Development:** Learning Rust to build lightweight Linux utilities. Exploring systems programming, memory safety, and how software interacts directly with hardware.
+### ⚙️ Engineering Approach
+
+- Break problems into small milestones, ship iteratively, and refine based on feedback.
+- Prioritize reliability and usability, with clean aesthetics in user-facing experiences.
+- Document setup steps and technical decisions so projects are easier to develop and maintain.
 
 ---
+
+### 🎯 Internship Focus
+
+Currently open to software engineering internships in Madrid or remote.
+
+---
+
+### 🌍 Languages
+English (C2) • Spanish (native) • Portuguese (conversational) • Japanese (conversational) • Chinese (learning)
